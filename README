@@ -1,0 +1,8 @@
+Python (3.x) implementations of common sorting algorithms.
+
+* BubbleSort: bubble_sort(lst)
+* InsertionSort: insertion_sort(lst)
+* MergeSort (iterative): imerge_sort(lst)
+* MergeSort (recursive): merge_sort(lst)
+* QuickSort: quick_sort(lst)
+* SelectionSort: selection_sort(lst)
